@@ -1,4 +1,5 @@
 # MCST
+## Mandaluyong College of Science and Technology
 
 PHILOSOPHY, MISSION, VISION, GOALS, AND CORE VALUES
 
