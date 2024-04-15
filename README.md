@@ -2,7 +2,7 @@
 ## Mandaluyong College of Science and Technology
 
 ---
-### (https://github.com/ninonarido/mcst/blob/main/mcst_header.jpg)
+###
 ![set](https://github.com/ninonarido/mcst/blob/main/mcst_header.jpg)
 
 
