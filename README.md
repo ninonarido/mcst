@@ -2,8 +2,8 @@
 ## Mandaluyong College of Science and Technology
 
 ---
-### [Set Algebra basics](https://github.com/ninonarido/STATSPRO)
-![set](http://www.efgh.com/math/algebra/venn.gif)
+### [Set Header](https://www.dropbox.com/home/MCST?preview=mcst_header.jpg)
+![set](https://www.dropbox.com/home/MCST?preview=mcst_header.jpg)
 
 ### [MCST] (https://www.dropbox.com/home/MCST)
 ![set] (https://www.dropbox.com/home/MCST/mcst_header.jpg)
