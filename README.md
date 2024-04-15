@@ -1,6 +1,12 @@
 # MCST
 ## Mandaluyong College of Science and Technology
-https://www.dropbox.com/scl/fi/6zv744t4ikr8p8xlwmncj/mcst_header.jpg?rlkey=uevw1sbbufel3o2p35cxt7g4e&dl=0
+
+---
+### [Set Algebra basics](https://github.com/ninonarido/STATSPRO)
+![set](http://www.efgh.com/math/algebra/venn.gif)
+
+### [MCST] (https://www.dropbox.com/home/MCST)
+![set] (https://www.dropbox.com/home/MCST/mcst_header.jpg)
 
 ### PHILOSOPHY, MISSION, VISION, GOALS, AND CORE VALUES
 
