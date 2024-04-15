@@ -6,7 +6,7 @@
 
 ### Philosophy. 
 
-Mandaluyong College of Science and Technology is
+Mandaluyong College of Science and Technology
 advocates the culture of excellence in science and technology that is
 anchored on the principles of quality instruction, dynamic research and
 innovation, continuous improvement, public service and nationalism.
