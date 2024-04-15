@@ -2,8 +2,8 @@
 ## Mandaluyong College of Science and Technology
 
 ---
-### [Set Header](https://www.dropbox.com/home/MCST/mcst_header.jpg)
-![set](https://www.dropbox.com/home/MCST/mcst_header.jpg)
+### [Set Header](https://github.com/ninonarido/mcst/blob/main/mcst_header.jpg)
+![set](https://github.com/ninonarido/mcst/blob/main/mcst_header.jpg)
 
 ### [MCST] (https://www.dropbox.com/home/MCST)
 ![set] (https://www.dropbox.com/home/MCST/mcst_header.jpg)
