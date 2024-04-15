@@ -6,7 +6,7 @@
 ![set](https://github.com/ninonarido/mcst/blob/main/mcst_header.jpg)
 
 
-### PHILOSOPHY, MISSION, VISION, GOALS, AND CORE VALUES
+### PHILOSOPHY, MISSION, VISION, GOALS AND CORE VALUES
 
 ### Philosophy. 
 
