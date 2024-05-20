@@ -1,6 +1,6 @@
 # Your guide in setting up your own database sandbox system...
 
-### Please proceed by clicking this url link [Tools and SQL's] (https://github.com/ninonarido/datana)
+### Please proceed by clicking this url link [Tools and SQL's] (https://github.com/ninonarido/dataana)
 
 ############################################################################
 
